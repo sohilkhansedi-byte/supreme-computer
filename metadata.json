@@ -1,0 +1,6 @@
+{
+  "name": "Supreme Computer — Chaurai",
+  "description": "Supreme Computer (supremecomputer.com) at Chaurai Bus Stand, Nagar Palika Ke Samne — All Sarkari Online Services, MP Online, CSC, Photocopy, Lamination, Government Portals & Vacancy Fee Estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
